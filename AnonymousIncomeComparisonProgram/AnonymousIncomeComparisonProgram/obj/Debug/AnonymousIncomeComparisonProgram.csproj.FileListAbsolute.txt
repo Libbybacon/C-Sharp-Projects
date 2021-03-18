@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\AnonymousIncomeComparisonProgram\AnonymousIncomeComparisonProgram\bin\Debug\AnonymousIncomeComparisonProgram.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\AnonymousIncomeComparisonProgram\AnonymousIncomeComparisonProgram\bin\Debug\AnonymousIncomeComparisonProgram.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\AnonymousIncomeComparisonProgram\AnonymousIncomeComparisonProgram\bin\Debug\AnonymousIncomeComparisonProgram.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\AnonymousIncomeComparisonProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\AnonymousIncomeComparisonProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\AnonymousIncomeComparisonProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\AnonymousIncomeComparisonProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.pdb
