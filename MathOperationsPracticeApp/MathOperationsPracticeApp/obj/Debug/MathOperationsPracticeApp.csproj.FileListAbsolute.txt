@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\MathOperationsPracticeApp\MathOperationsPracticeApp\bin\Debug\MathOperationsPracticeApp.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\MathOperationsPracticeApp\MathOperationsPracticeApp\bin\Debug\MathOperationsPracticeApp.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\MathOperationsPracticeApp\MathOperationsPracticeApp\bin\Debug\MathOperationsPracticeApp.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\MathOperationsPracticeApp\MathOperationsPracticeApp\obj\Debug\MathOperationsPracticeApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\MathOperationsPracticeApp\MathOperationsPracticeApp\obj\Debug\MathOperationsPracticeApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\MathOperationsPracticeApp\MathOperationsPracticeApp\obj\Debug\MathOperationsPracticeApp.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\MathOperationsPracticeApp\MathOperationsPracticeApp\obj\Debug\MathOperationsPracticeApp.pdb
