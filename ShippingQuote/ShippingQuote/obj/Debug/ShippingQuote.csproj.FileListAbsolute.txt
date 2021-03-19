@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+\\Mac\Home\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb

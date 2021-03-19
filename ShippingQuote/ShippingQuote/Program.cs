@@ -7,16 +7,16 @@ namespace ShippingQuote
         static void Main()
         {   // Get package weight from user and determine whether or not it is too big to ship
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below:\nHow much does your package weigh?");
-            decimal packageWeight = Convert.ToDecimal(Console.ReadLine());
+            int packageWeight = Convert.ToInt32(Console.ReadLine());
             string shippability = packageWeight > 50 ? "Package too heavy to be shipped via Package Express.  Have a good day." : "Package width:";
             
             // Get package dimensions from user
             Console.WriteLine(shippability);
-            decimal packageWidth = Convert.ToDecimal(Console.ReadLine());
+            int packageWidth = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Package height?");
-            decimal packageHeight = Convert.ToDecimal(Console.ReadLine());
+            int packageHeight = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Package length?");
-            decimal packageLength = Convert.ToDecimal(Console.ReadLine());
+            int packageLength = Convert.ToInt32(Console.ReadLine());
 
             decimal totalSize = packageWidth * packageHeight * packageLength;
 
