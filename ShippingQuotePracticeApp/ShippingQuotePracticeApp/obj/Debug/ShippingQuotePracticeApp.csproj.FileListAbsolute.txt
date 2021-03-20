@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\ShippingQuotePracticeApp\ShippingQuotePracticeApp\bin\Debug\ShippingQuotePracticeApp.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\ShippingQuotePracticeApp\ShippingQuotePracticeApp\bin\Debug\ShippingQuotePracticeApp.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\ShippingQuotePracticeApp\ShippingQuotePracticeApp\bin\Debug\ShippingQuotePracticeApp.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\ShippingQuotePracticeApp\ShippingQuotePracticeApp\obj\Debug\ShippingQuotePracticeApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\ShippingQuotePracticeApp\ShippingQuotePracticeApp\obj\Debug\ShippingQuotePracticeApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\ShippingQuotePracticeApp\ShippingQuotePracticeApp\obj\Debug\ShippingQuotePracticeApp.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\ShippingQuotePracticeApp\ShippingQuotePracticeApp\obj\Debug\ShippingQuotePracticeApp.pdb
