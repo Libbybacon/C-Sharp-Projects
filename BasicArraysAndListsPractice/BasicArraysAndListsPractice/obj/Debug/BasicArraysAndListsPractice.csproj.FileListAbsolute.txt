@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\BasicArraysAndListsPractice\BasicArraysAndListsPractice\bin\Debug\BasicArraysAndListsPractice.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\BasicArraysAndListsPractice\BasicArraysAndListsPractice\bin\Debug\BasicArraysAndListsPractice.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\BasicArraysAndListsPractice\BasicArraysAndListsPractice\bin\Debug\BasicArraysAndListsPractice.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\BasicArraysAndListsPractice\BasicArraysAndListsPractice\obj\Debug\BasicArraysAndListsPractice.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\BasicArraysAndListsPractice\BasicArraysAndListsPractice\obj\Debug\BasicArraysAndListsPractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\BasicArraysAndListsPractice\BasicArraysAndListsPractice\obj\Debug\BasicArraysAndListsPractice.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\BasicArraysAndListsPractice\BasicArraysAndListsPractice\obj\Debug\BasicArraysAndListsPractice.pdb
