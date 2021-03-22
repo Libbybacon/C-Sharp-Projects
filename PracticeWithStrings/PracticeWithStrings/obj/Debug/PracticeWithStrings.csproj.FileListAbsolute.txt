@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\PracticeWithStrings\PracticeWithStrings\bin\Debug\PracticeWithStrings.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\PracticeWithStrings\PracticeWithStrings\bin\Debug\PracticeWithStrings.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\PracticeWithStrings\PracticeWithStrings\bin\Debug\PracticeWithStrings.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\PracticeWithStrings\PracticeWithStrings\obj\Debug\PracticeWithStrings.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\PracticeWithStrings\PracticeWithStrings\obj\Debug\PracticeWithStrings.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\PracticeWithStrings\PracticeWithStrings\obj\Debug\PracticeWithStrings.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\PracticeWithStrings\PracticeWithStrings\obj\Debug\PracticeWithStrings.pdb
