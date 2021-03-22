@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\WhileDoWhilePractice\WhileDoWhilePractice\bin\Debug\WhileDoWhilePractice.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\WhileDoWhilePractice\WhileDoWhilePractice\bin\Debug\WhileDoWhilePractice.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\WhileDoWhilePractice\WhileDoWhilePractice\bin\Debug\WhileDoWhilePractice.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\WhileDoWhilePractice\WhileDoWhilePractice\obj\Debug\WhileDoWhilePractice.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\WhileDoWhilePractice\WhileDoWhilePractice\obj\Debug\WhileDoWhilePractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\WhileDoWhilePractice\WhileDoWhilePractice\obj\Debug\WhileDoWhilePractice.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\WhileDoWhilePractice\WhileDoWhilePractice\obj\Debug\WhileDoWhilePractice.pdb
