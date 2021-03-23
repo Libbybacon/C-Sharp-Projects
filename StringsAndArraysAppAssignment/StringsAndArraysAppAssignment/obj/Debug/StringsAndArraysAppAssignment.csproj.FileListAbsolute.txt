@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\StringsAndArraysAppAssignment\StringsAndArraysAppAssignment\bin\Debug\StringsAndArraysAppAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\StringsAndArraysAppAssignment\StringsAndArraysAppAssignment\bin\Debug\StringsAndArraysAppAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\StringsAndArraysAppAssignment\StringsAndArraysAppAssignment\bin\Debug\StringsAndArraysAppAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\StringsAndArraysAppAssignment\StringsAndArraysAppAssignment\obj\Debug\StringsAndArraysAppAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\StringsAndArraysAppAssignment\StringsAndArraysAppAssignment\obj\Debug\StringsAndArraysAppAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\StringsAndArraysAppAssignment\StringsAndArraysAppAssignment\obj\Debug\StringsAndArraysAppAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\StringsAndArraysAppAssignment\StringsAndArraysAppAssignment\obj\Debug\StringsAndArraysAppAssignment.pdb
