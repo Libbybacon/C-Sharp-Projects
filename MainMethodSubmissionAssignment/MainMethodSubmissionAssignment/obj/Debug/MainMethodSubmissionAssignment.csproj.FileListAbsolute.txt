@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.pdb
