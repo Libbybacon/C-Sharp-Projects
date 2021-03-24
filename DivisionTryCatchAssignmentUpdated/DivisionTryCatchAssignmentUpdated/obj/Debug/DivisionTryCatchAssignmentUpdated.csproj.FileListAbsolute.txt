@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\DivisionTryCatchAssignmentUpdated\DivisionTryCatchAssignmentUpdated\bin\Debug\DivisionTryCatchAssignmentUpdated.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\DivisionTryCatchAssignmentUpdated\DivisionTryCatchAssignmentUpdated\bin\Debug\DivisionTryCatchAssignmentUpdated.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\DivisionTryCatchAssignmentUpdated\DivisionTryCatchAssignmentUpdated\bin\Debug\DivisionTryCatchAssignmentUpdated.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\DivisionTryCatchAssignmentUpdated\DivisionTryCatchAssignmentUpdated\obj\Debug\DivisionTryCatchAssignmentUpdated.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\DivisionTryCatchAssignmentUpdated\DivisionTryCatchAssignmentUpdated\obj\Debug\DivisionTryCatchAssignmentUpdated.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\DivisionTryCatchAssignmentUpdated\DivisionTryCatchAssignmentUpdated\obj\Debug\DivisionTryCatchAssignmentUpdated.pdb
