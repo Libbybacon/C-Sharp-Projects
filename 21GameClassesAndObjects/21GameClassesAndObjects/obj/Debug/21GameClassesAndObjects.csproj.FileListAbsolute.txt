@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\21GameClassesAndObjects\21GameClassesAndObjects\bin\Debug\21GameClassesAndObjects.exe.config
+\\Mac\Home\Desktop\Basic_C#_Programs\21GameClassesAndObjects\21GameClassesAndObjects\bin\Debug\21GameClassesAndObjects.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\21GameClassesAndObjects\21GameClassesAndObjects\bin\Debug\21GameClassesAndObjects.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.pdb
