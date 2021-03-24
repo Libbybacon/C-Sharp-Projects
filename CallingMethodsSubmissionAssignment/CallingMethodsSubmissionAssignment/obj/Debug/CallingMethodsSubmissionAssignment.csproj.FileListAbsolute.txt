@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.pdb
