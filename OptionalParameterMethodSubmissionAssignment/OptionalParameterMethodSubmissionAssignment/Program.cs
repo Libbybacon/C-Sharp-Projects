@@ -12,6 +12,7 @@ namespace OptionalParameterMethodSubmissionAssignment
         {
             //Instantiate class "Math"
             Math myMath = new Math();
+            //Declare variables
             int num1;
             int num2;
             int product;
@@ -26,12 +27,14 @@ namespace OptionalParameterMethodSubmissionAssignment
             //Check if user entered number:
             if (int.TryParse(Console.ReadLine(), out num2))
             {
+                //If user enters second number:
                 product = myMath.Multiply(num1, num2);
                 Console.WriteLine(num1 + " times " + num2 + " equals: " + product);
             }
 
             else
             {
+                //If user does not enter second number:
                 product = myMath.Multiply(num1);
                 Console.WriteLine(num1 + " times two equals: " + product);
             }
