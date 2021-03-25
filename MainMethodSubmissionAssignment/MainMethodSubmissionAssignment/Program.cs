@@ -10,6 +10,8 @@ namespace MainMethodSubmissionAssignment
     {
         static void Main(string[] args)
         {
+            Math myMath = new Math();
+
             //Call Math method 'Operation', pass in user's numbers as arguments and display result
             Console.WriteLine("Please enter a number: ");
             int num1 = Convert.ToInt32(Console.ReadLine());
@@ -17,7 +19,7 @@ namespace MainMethodSubmissionAssignment
             Console.WriteLine("Please enter a second number: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
             
-            int product = Math.Operation(num1, num2);
+            int product = myMath.Operation(num1, num2);
             
             Console.WriteLine(num1 + " times " + num2 + " equals: " + product);
             
@@ -26,7 +28,7 @@ namespace MainMethodSubmissionAssignment
             Console.WriteLine("Please enter a decimal value: ");
             decimal num3 = Convert.ToDecimal(Console.ReadLine());
 
-            int square = (int)Math.Operation(num3);
+            int square = (int)myMath.Operation(num3);
 
             Console.WriteLine(num3 + " squared equals: " + square);
 
@@ -34,7 +36,7 @@ namespace MainMethodSubmissionAssignment
             Console.WriteLine("Please enter a number: ");
             string num = Console.ReadLine();
 
-            int half = Convert.ToInt32(num) / 2;
+            int half = myMath.Operation(num);
 
             Console.WriteLine("Half of " + num + " is: " + half);
             Console.ReadLine();

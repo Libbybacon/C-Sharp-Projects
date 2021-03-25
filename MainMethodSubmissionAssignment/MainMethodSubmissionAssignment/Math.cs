@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace MainMethodSubmissionAssignment
 {
-    class Math
+    public class Math
     {
+        
+
         //Create a method that will take in an integer and perform a math operation
-        public static int Operation(int num1, int num2)
+        public int Operation(int num1, int num2)
         {
             int product = num1 * num2;
             return product;
@@ -17,7 +19,7 @@ namespace MainMethodSubmissionAssignment
 
         //Create second method with the same name that will take in a decimal,
         //create a different math operation for it, return answer as integer
-        public static decimal Operation(decimal num)
+        public decimal Operation(decimal num)
         {
             int square = Convert.ToInt32(num * num);
             return square;
@@ -26,7 +28,7 @@ namespace MainMethodSubmissionAssignment
         //Create a third method with the same name that will take in a string,
         //convert it to an integer if possible, do a different math operation on it,
         //return answer as int
-        public static int Operation(string num)
+        public int Operation(string num)
         {
             int half = Convert.ToInt32(num) / 2;
             return half;
