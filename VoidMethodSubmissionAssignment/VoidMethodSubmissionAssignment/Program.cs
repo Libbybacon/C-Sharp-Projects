@@ -19,7 +19,7 @@ namespace VoidMethodSubmissionAssignment
             myMath.Square(5, 3);
 
             //Call method specifying parameters by name
-            myMath.Square(num1, num2);
+            myMath.Square(num1:num2, num2:num1);
 
         }
     }
