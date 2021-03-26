@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C699E9D1-45A5-495F-A2E7-0503D800BD85}</ProjectGuid>
+    <ProjectGuid>{A8EE0970-8A0A-4F43-8400-8683A36227CA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AbstractClassSubmissionAssignment</RootNamespace>
-    <AssemblyName>AbstractClassSubmissionAssignment</AssemblyName>
+    <RootNamespace>InterfacePracticeSubmissionAssignment</RootNamespace>
+    <AssemblyName>InterfacePracticeSubmissionAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="IQuittable.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

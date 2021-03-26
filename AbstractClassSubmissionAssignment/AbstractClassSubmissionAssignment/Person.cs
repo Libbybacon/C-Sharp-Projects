@@ -13,11 +13,10 @@ namespace AbstractClassSubmissionAssignment
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        //Method SayName
+        //Create method SayName()
         public virtual void SayName()
         {
-            Console.WriteLine("Employee name: " + firstName + " " + lastName);
-            Console.ReadLine();
+          
         }
     }
 }
