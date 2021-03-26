@@ -9,7 +9,7 @@ namespace AbstractClassSubmissionAssignment
     //Employee class inherits Person class and IQuittable interface
     public class Employee : Person, IQuittable
     {
-        IQuittable Job { get; set; }
+        
 
         //Implement SayName() method 
         public override void SayName()

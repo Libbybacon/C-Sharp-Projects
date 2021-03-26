@@ -10,12 +10,15 @@ namespace AbstractClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
+           
             //Instantiate Employee object
-            Employee employee = new Employee() { firstName = "Sample", lastName = "Student"};
+            IQuittable employee = new Employee() { firstName = "Sample", lastName = "Student"};
             //Call SayName() method
-            employee.SayName();
+            employee.Quit();
 
-            employee.Job.Quit();
+            Console.ReadLine();
+
+            
 
 
         }
