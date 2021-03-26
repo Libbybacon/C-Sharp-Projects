@@ -10,23 +10,26 @@ namespace _21GameClassesAndObjects
     {
         static void Main(string[] args)
         {
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "L", "P", "G" };
-            game.ListPlayers();
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Phoeny";
+            game = game + player;
+            game = game - player;
+
+            //Instantiate Deck
+            Deck deck = new Deck();
+            //Call shuffle method
+            deck.Shuffle(3);
+
+            //Print deck to Console
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+
+            Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
-            ////Instantiate Deck
-            //Deck deck = new Deck();
-            ////Call shuffle method
-            //deck.Shuffle(3);
-
-            ////Print deck to Console
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
 
         }
     }
