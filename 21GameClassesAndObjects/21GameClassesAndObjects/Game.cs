@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace _21GameClassesAndObjects
 {
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
+        //Method must be implemented in inheirited classes
+        public abstract void Play();
+
+        //Method must be implemented in inherited classes, but can be overwritten
+        public virtual void ListPlayers()
         {
             foreach (string player in Players)
             {

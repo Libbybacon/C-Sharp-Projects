@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.pdb
