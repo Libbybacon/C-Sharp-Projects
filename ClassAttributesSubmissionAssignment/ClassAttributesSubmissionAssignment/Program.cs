@@ -29,6 +29,7 @@ namespace ClassAttributesSubmissionAssignment
             //Call other Divide method on user input
             myMath.Divide(num1, num2);
 
+            //Call out parameter method
             int num3;
             myMath.OutParameter(out num3);
             Console.Write(num3);
