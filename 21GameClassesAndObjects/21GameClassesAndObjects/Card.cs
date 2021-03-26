@@ -8,6 +8,7 @@ namespace _21GameClassesAndObjects
 {
     public class Card
     {
+        //Card constructor:
         //public Card() 
         //{
         //    Suit = "Spades";

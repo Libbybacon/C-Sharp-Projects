@@ -10,12 +10,14 @@ namespace _21GameClassesAndObjects
     {
         static void Main(string[] args)
         {
+            //Instantiate Deck
             Deck deck = new Deck();
-            
+            deck.Shuffle();
+
+            //Print deck to Console
             foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
-                Console.ReadLine();
             }
 
            Console.WriteLine(deck.Cards.Count);
