@@ -24,18 +24,36 @@ namespace _21GameClassesAndObjects
             //int underlyingValue = (int)(Suit.Clubs);
             //Console.WriteLine(underlyingValue);
 
+            //Card card1 = new Card();
+            //Card card2 = card1;
+            //card1.Face = Face.Eight;
+            //card2.Face = Face.King;
+
+
+
             //Instantiate Deck
             Deck deck = new Deck();
-            //Call shuffle method
-            deck.Shuffle(3);
+            ////lambda function to find how many aces are in deck
+            //int count = deck.Cards.Count(x => x.Face ==Face.Ace);
 
-            //Print deck to Console
-            foreach (Card card in deck.Cards)
+            List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            foreach (Card card in newList)
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Console.WriteLine(card.Face);
             }
+            
 
-            Console.WriteLine(deck.Cards.Count);
+
+            ////Call shuffle method
+            //deck.Shuffle(3);
+
+            ////Print deck to Console
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
 
         }

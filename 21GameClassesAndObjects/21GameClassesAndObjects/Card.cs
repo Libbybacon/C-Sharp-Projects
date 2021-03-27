@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _21GameClassesAndObjects
 {
-    public class Card
+    public struct Card
     {
         //Card constructor:
         //public Card()
