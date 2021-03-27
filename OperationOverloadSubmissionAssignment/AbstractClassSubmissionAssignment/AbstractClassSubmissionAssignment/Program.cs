@@ -11,14 +11,6 @@ namespace AbstractClassSubmissionAssignment
         static void Main(string[] args)
         {
 
-            ////Use polymorphism to create object of type IQuittable
-            //IQuittable employee = new Employee<string>() { firstName = "Sample", lastName = "Student" };
-
-            ////Call Quit() method on IQuittable object
-            //employee.Quit();
-
-
-
             //Instantiate Employee1 
             Employee employee1 = new Employee() { ID = 1234};
 

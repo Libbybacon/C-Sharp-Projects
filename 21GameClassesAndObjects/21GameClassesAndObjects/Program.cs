@@ -10,12 +10,19 @@ namespace _21GameClassesAndObjects
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Phoeny";
-            game = game + player;
-            game = game - player;
+            //Using over-ridden operators to add/remove player
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Phoeny";
+            //game += player;
+            //game -= player;
+
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            ////Cast enum to int to see what it's int value is
+            //int underlyingValue = (int)(Suit.Clubs);
+            //Console.WriteLine(underlyingValue);
 
             //Instantiate Deck
             Deck deck = new Deck();

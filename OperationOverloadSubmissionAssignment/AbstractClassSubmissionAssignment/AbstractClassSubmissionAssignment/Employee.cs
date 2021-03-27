@@ -7,28 +7,11 @@ using System.Threading.Tasks;
 namespace AbstractClassSubmissionAssignment
 {
     //Employee class inherits Person class and IQuittable interface
-    public class Employee : Person, IQuittable
+    public class Employee : Person
     {
         //Give Employee ID property
         public int ID { get; set; }
 
-        //Add property 'things' and have data type be generic list matching generic type of class
-        public List Things {get; set;}
-        
-
-        //Implement SayName() method 
-        public override void SayName()
-        {
-            Console.WriteLine("Employee name: " + firstName + " " + lastName);
-            Console.ReadLine();
-            base.SayName();
-        }
-
-        //Implement IQuittable() method
-        public void Quit()
-        {
-            Console.WriteLine("This place sucks, I quit!");
-        }
 
         //Overload '==' operator so it checks if two Employee objects are equal by comparing ID property
         public static bool operator ==(Employee employee1, Employee employee2)

@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\ParsingEnumsSubmissionAssignment\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.pdb

@@ -9,12 +9,37 @@ namespace _21GameClassesAndObjects
     public class Card
     {
         //Card constructor:
-        //public Card() 
+        //public Card()
         //{
         //    Suit = "Spades";
         //    Face = "Two";
         //}
-        public string Face { get; set; }
-        public string Suit { get; set; }
+        public Face Face { get; set; }
+        public Suit Suit { get; set; }
+    }
+    public enum Suit
+    {
+        //You can assign enums int values (default is index value)
+        Clubs,
+        Spade,
+        Diamond,
+        Hearts
+    }
+    public enum Face
+    {
+       Two,
+       Three,
+       Four,
+       Five,
+       Six,
+       Seven,
+       Eight,
+       Nine,
+       Ten,
+       Jack,
+       Queen,
+       King,
+       Ace
+
     }
 }
