@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\StructPracticeAssignment\StructPracticeAssignment\bin\Debug\StructPracticeAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\StructPracticeAssignment\StructPracticeAssignment\bin\Debug\StructPracticeAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\StructPracticeAssignment\StructPracticeAssignment\bin\Debug\StructPracticeAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\StructPracticeAssignment\StructPracticeAssignment\obj\Debug\StructPracticeAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\StructPracticeAssignment\StructPracticeAssignment\obj\Debug\StructPracticeAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\StructPracticeAssignment\StructPracticeAssignment\obj\Debug\StructPracticeAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\StructPracticeAssignment\StructPracticeAssignment\obj\Debug\StructPracticeAssignment.pdb
