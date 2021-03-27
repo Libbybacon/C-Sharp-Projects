@@ -12,9 +12,9 @@ namespace AbstractClassSubmissionAssignment
         //Give Employee ID property
         public int ID { get; set; }
 
-        ////Add property 'things' and have data type be generic list matching generic type of class
-        //public List Things {get; set;}
-
+        //Add property 'things' and have data type be generic list matching generic type of class
+        public List Things {get; set;}
+        
 
         //Implement SayName() method 
         public override void SayName()
