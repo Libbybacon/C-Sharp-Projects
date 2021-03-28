@@ -22,9 +22,10 @@ namespace _21GameClassesAndObjects
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            //Log each card dealt to text file 21Log.txt
+            //Log each card dealt to text file 21Log.txt and time it was dealt
             using (StreamWriter file = new StreamWriter(@"C:\Users\Libby\Documents\21Log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
                 //Remove dealt card from deck

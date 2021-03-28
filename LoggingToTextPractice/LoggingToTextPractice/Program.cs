@@ -8,6 +8,8 @@ namespace LoggingToTextPractice
     {
         static void Main(string[] args)
         {
+           
+
             Console.WriteLine("Please enter a number: ");
             string number = Console.ReadLine();
             //Log text to file

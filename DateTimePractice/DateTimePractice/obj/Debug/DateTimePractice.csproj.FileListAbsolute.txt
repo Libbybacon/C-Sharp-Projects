@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\DateTimePractice\DateTimePractice\bin\Debug\DateTimePractice.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\DateTimePractice\DateTimePractice\bin\Debug\DateTimePractice.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\DateTimePractice\DateTimePractice\bin\Debug\DateTimePractice.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.pdb
