@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\bin\Debug\netcoreapp3.1\LoggingToTextPractice.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\bin\Debug\netcoreapp3.1\LoggingToTextPractice.deps.json
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\bin\Debug\netcoreapp3.1\LoggingToTextPractice.runtimeconfig.json
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\bin\Debug\netcoreapp3.1\LoggingToTextPractice.runtimeconfig.dev.json
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\bin\Debug\netcoreapp3.1\LoggingToTextPractice.dll
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\bin\Debug\netcoreapp3.1\LoggingToTextPractice.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\obj\Debug\netcoreapp3.1\LoggingToTextPractice.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\obj\Debug\netcoreapp3.1\LoggingToTextPractice.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\obj\Debug\netcoreapp3.1\LoggingToTextPractice.AssemblyInfo.cs
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\obj\Debug\netcoreapp3.1\LoggingToTextPractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\obj\Debug\netcoreapp3.1\LoggingToTextPractice.dll
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\obj\Debug\netcoreapp3.1\LoggingToTextPractice.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\LoggingToTextPractice\LoggingToTextPractice\obj\Debug\netcoreapp3.1\LoggingToTextPractice.genruntimeconfig.cache

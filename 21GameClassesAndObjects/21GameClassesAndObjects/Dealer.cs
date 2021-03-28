@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace _21GameClassesAndObjects
 {
-    class Dealer
+    public class Dealer
     {
         //Dealer properties
         public string Name { get; set; }
@@ -19,9 +20,15 @@ namespace _21GameClassesAndObjects
         {
             //Take first card from Deck and add to Hand
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
-            //Remove dealt card from deck
-            Deck.Cards.RemoveAt(0);    
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            //Log each card dealt to text file 21Log.txt
+            using (StreamWriter file = new StreamWriter(@"C:\Users\Libby\Documents\21Log.txt", true))
+            {
+                file.WriteLine(card);
+            }
+                //Remove dealt card from deck
+                Deck.Cards.RemoveAt(0);    
         }
     }
 }

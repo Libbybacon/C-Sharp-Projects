@@ -8,21 +8,22 @@ namespace _21GameClassesAndObjects
 {
     public struct Card
     {
-        //Card constructor:
-        //public Card()
-        //{
-        //    Suit = "Spades";
-        //    Face = "Two";
-        //}
+    
         public Face Face { get; set; }
         public Suit Suit { get; set; }
+
+        //Custom to string method for Card
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit
     {
         //You can assign enums int values (default is index value)
         Clubs,
-        Spade,
-        Diamond,
+        Spades,
+        Diamonds,
         Hearts
     }
     public enum Face
