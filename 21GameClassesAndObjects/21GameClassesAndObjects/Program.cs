@@ -4,15 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
-namespace _21GameClassesAndObjects
+namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-         
-            Console.WriteLine("Welcome to the Grand Hotel and Ca$ino.  Let's start by telling me your name.");
+            //Create a constant for casino name
+            const string casinoName = "Grand Hotel and Ca$ino";
+        
+            Console.WriteLine("Welcome to the {0}.  Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
 
             Console.WriteLine("And how much money did you bring today?");
@@ -25,6 +29,12 @@ namespace _21GameClassesAndObjects
             {
                 //use Player constructor to create new player
                 Player player = new Player(playerName, bank);
+                //Assign player guid Id
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Libby\Documents\21Log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 //Create new game (using polymorphism
                 Game game = new TwentyOneGame();
                 //Add player to game

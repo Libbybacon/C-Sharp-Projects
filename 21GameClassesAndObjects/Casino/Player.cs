@@ -4,10 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _21GameClassesAndObjects
+namespace Casino
 {
     public class Player
     {
+        //Constructor that just takes one parameter, automatically assigns beginning balance if there isn't one
+        //Inherits from other Player constructor
+        public Player(string name) : this(name, 100)
+        {
+        }
+
         //Player constructor
         public Player(string name, int beginningBalance)
         {
@@ -24,6 +30,7 @@ namespace _21GameClassesAndObjects
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         //Bet method, returns bool
         public bool Bet(int amount)

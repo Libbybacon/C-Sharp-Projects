@@ -10,18 +10,22 @@ namespace AbstractClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
-            Employee emp1 = new Employee() { firstName = "Joe", lastName = "Killinme", ID = 1 };
-            Employee emp2 = new Employee() { firstName = "Bob", lastName = "Jones", ID = 2};
-            Employee emp3 = new Employee() { firstName = "Sue", lastName = "Bacon", ID = 3};
-            Employee emp4 = new Employee() { firstName = "Joe", lastName = "Nowat", ID = 4};
-            Employee emp5 = new Employee() { firstName = "John", lastName = "Bassett", ID = 5};
-            Employee emp6 = new Employee() { firstName = "Sally", lastName = "Couch", ID = 6};
-            Employee emp7 = new Employee() { firstName = "Sam", lastName = "Larsen", ID = 7};
-            Employee emp8 = new Employee() { firstName = "Joe", lastName = "Bananas", ID = 8};
-            Employee emp9 = new Employee() { firstName = "Bob", lastName = "Ward", ID = 9};
-            Employee emp10 = new Employee() { firstName = "Sue", lastName = "Leyden", ID = 10};
-            Employee emp11 = new Employee() { firstName = "Jan", lastName = "Donaldson", ID = 11 };
-            Employee emp12 = new Employee() { firstName = "Joe", lastName = "Free", ID = 12 };
+            //Create a const variable
+            const string businessName = "BestBusinessEver";
+
+            // Create a variable using the keyword 'var'
+            var emp1 = new Employee("Joe", "Killinme", 1);
+            var emp2 = new Employee("Bob", "Jones", 2);
+            var emp3 = new Employee("Sue", "Bacon", 3);
+            var emp4 = new Employee("Joe", "Nowat", 4);
+            var emp5 = new Employee("John", "Bassett", 5);
+            var emp6 = new Employee("Sally", "Couch", 6);
+            var emp7 = new Employee("Sam", "Larsen", 7);
+            var emp8 = new Employee("Joe", "Bananas", 8);
+            var emp9 = new Employee("Bob", "Ward", 9);
+            var emp10 = new Employee("Sue", "Leyden", 10);
+            var emp11 = new Employee("Jan", "Donaldson", 11);
+            var emp12 = new Employee("Joe", "Free", 12);
 
             //Create list of at least 10 employees, each with firstName, lastName, and ID
             List<Employee> Employees = new List<Employee>() { emp1, emp2, emp3, emp4, emp5, emp6, emp7, emp8, emp9, emp10, emp11, emp12};
@@ -30,21 +34,21 @@ namespace AbstractClassSubmissionAssignment
             List<Employee> JoeList = new List<Employee>();
             foreach (Employee employee in Employees)
             {
-                if (employee.firstName == "Joe")
+                if (employee.FirstName == "Joe")
                 {
                     JoeList.Add(employee);
                 }
             }
             foreach (Employee joe in JoeList)
             {
-                Console.WriteLine(joe.firstName + " " + joe.lastName);
+                Console.WriteLine(joe.FirstName + " " + joe.LastName);
             }
 
             //Do same thing with lambda expression
-            List<Employee> JoeList2 = Employees.Where(x=> x.firstName == "Joe").ToList();
+            List<Employee> JoeList2 = Employees.Where(x=> x.FirstName == "Joe").ToList();
             foreach(Employee joe in JoeList2)
             {
-                Console.WriteLine(joe.firstName + " " + joe.lastName);
+                Console.WriteLine(joe.FirstName + " " + joe.LastName);
             }
             Console.ReadLine();
         }

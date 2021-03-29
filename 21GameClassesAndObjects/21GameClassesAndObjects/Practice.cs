@@ -77,5 +77,13 @@ namespace _21GameClassesAndObjects
         //Console.WriteLine(ageAtGraduation);
         //    Console.ReadLine();
 
+        // VAR //
+
+        //var newDictionary = new Dictionary<string, string>();
+        // vs. Dictionary<string,string> newDictionary = new Dictionary<string,string>();
+
+        
+
+
     }
 }

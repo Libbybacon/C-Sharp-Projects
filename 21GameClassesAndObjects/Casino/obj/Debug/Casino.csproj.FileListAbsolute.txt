@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\Casino\bin\Debug\Casino.dll
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\Casino\bin\Debug\Casino.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\Casino\obj\Debug\Casino.dll
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\Casino\obj\Debug\Casino.pdb

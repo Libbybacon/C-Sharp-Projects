@@ -12,3 +12,6 @@
 \\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.exe
 \\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\21GameClassesAndObjects\bin\Debug\Casino.dll
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\21GameClassesAndObjects\bin\Debug\Casino.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\21GameClassesAndObjects\21GameClassesAndObjects\obj\Debug\21GameClassesAndObjects.csproj.CopyComplete
