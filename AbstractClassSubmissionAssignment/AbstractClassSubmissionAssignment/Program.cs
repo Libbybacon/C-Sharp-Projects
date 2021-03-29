@@ -19,29 +19,29 @@ namespace AbstractClassSubmissionAssignment
 
 
 
-            ////Instantiate Employee object with type "string" as generic parameter
-            //Employee<string> employee1 = new Employee<string>();
+            //Instantiate Employee object with type "string" as generic parameter
+            Employee<string> employee1 = new Employee<string>();
 
-            ////Assign a list of strings as the property value of Things
-            //employee1.Things = new List<string>() {"Office", "Computer", "Desk", "Chair", "Phone" };
+            //Assign a list of strings as the property value of Things
+            employee1.Things = new List<string>() { "Office", "Computer", "Desk", "Chair", "Phone" };
 
-            ////Instantiate Employee object with type "int" as generic parameter
-            //Employee<int> employee2 = new Employee<int>();
+            //Instantiate Employee object with type "int" as generic parameter
+            Employee<int> employee2 = new Employee<int>();
 
-            ////Assign list of integers as the property value of Things
-            //employee2.Things = new List<int>() { 13, 7, 14, 21, 3};
+            //Assign list of integers as the property value of Things
+            employee2.Things = new List<int>() { 13, 7, 14, 21, 3 };
 
-            //foreach (string thing in employee1.Things)
-            //{
-            //    Console.WriteLine(thing);
-            //}
+            foreach (string thing in employee1.Things)
+            {
+                Console.WriteLine(thing);
+            }
 
-            //foreach (int thing in employee2.Things)
-            //{
-            //    Console.WriteLine(thing);
-            //}
+            foreach (int thing in employee2.Things)
+            {
+                Console.WriteLine(thing);
+            }
 
-            
+
             Console.ReadLine();
 
 

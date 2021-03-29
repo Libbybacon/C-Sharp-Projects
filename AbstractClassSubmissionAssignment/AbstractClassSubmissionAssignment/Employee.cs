@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 namespace AbstractClassSubmissionAssignment
 {
     //Employee class inherits Person class and IQuittable interface
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         //Give Employee ID property
         public int ID { get; set; }
 
-        ////Add property 'things' and have data type be generic list matching generic type of class
-        //public List Things {get; set;}
+        //Add property 'things' and have data type be generic list matching generic type of class
+        public List<T> Things { get; set; }
 
 
         //Implement SayName() method 
@@ -31,7 +31,7 @@ namespace AbstractClassSubmissionAssignment
         }
 
         //Overload '==' operator so it checks if two Employee objects are equal by comparing ID property
-        public static bool operator ==(Employee employee1, Employee employee2)
+        public static bool operator ==(Employee<T> employee1, Employee<T> employee2)
         {
             if (employee1.ID == employee2.ID)
             {
@@ -44,7 +44,7 @@ namespace AbstractClassSubmissionAssignment
         }
 
         ////Overload '!=' operator because you have to if you're going to change the '==' operator.  I think...
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator !=(Employee<T> employee1, Employee<T> employee2)
         {
             if (employee1.ID != employee2.ID)
             {
