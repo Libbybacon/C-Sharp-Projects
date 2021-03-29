@@ -10,8 +10,8 @@ namespace AbstractClassSubmissionAssignment
     public abstract class Person
     {
         //Two string properties
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
 
         //Create method SayName()
         public virtual void SayName()

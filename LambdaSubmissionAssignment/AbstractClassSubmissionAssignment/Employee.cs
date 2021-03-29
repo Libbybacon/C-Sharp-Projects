@@ -9,8 +9,21 @@ namespace AbstractClassSubmissionAssignment
     //Employee class inherits Person class and IQuittable interface
     public class Employee : Person
     {
-        //Give Employee ID property
+        //Chain two constructors together
+        public Employee(string firstName, string lastName) : this(firstName, lastName, 000) 
+        {
+        }
+        public Employee(string firstName, string lastName, int id)
+        {
+            ID = id;
+            FirstName = firstName;
+            LastName = lastName;   
+        }
+
+        //Employee properties:
         public int ID { get; set; }
+       
+
 
 
     }
