@@ -14,7 +14,7 @@ namespace ConstructorSubmissionAssignment
             const string businessName = "BestBusinessEver";
 
             // Create a variable using the keyword 'var'
-            var emp1 = new Employee("Joe", "Killinme", 1);
+            var emp1 = new Employee("Joe", "Killinme");
             var emp2 = new Employee("Bob", "Jones", 2);
             var emp3 = new Employee("Sue", "Bacon", 3);
             var emp4 = new Employee("Joe", "Nowat", 4);
@@ -53,5 +53,5 @@ namespace ConstructorSubmissionAssignment
             Console.ReadLine();
         }
     }
-    }
+    
 }

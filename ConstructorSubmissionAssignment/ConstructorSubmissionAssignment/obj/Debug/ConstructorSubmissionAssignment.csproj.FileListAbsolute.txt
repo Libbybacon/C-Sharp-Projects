@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.pdb
