@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+\\Mac\Home\Desktop\C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb

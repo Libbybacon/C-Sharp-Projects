@@ -8,5 +8,14 @@ namespace ConstructorSubmissionAssignment
 {
     class Person
     {
+        //Two string properties
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
+        //Create method SayName()
+        public virtual void SayName()
+        {
+
+        }
     }
 }
