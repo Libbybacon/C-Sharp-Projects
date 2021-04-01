@@ -43,7 +43,7 @@ namespace Casino.TwentyOne
 
                 if (bet < 0)
                 {
-                    throw new FraudException();
+                    throw new FraudException("Security! Kick this person out.");
                 }
                 
                 //Pass bet amount into Bet() method 
