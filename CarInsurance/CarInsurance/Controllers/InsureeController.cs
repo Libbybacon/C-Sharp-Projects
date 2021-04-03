@@ -38,68 +38,7 @@ namespace CarInsurance.Controllers
         // GET: Insuree/Create
         public ActionResult Create()
         {
-            using (InsuranceEntities db = new InsuranceEntities())
-            {
-                var insurees = db.Insurees;
-                //Variable to hold value of monthly quote
-                int quote = 50;
-
-                //Variable to check if insuree is 18 years old or younger
-                var timeNow = DateTime.Now;
-                var eighteenYearsAgo = timeNow.AddYears(-18);
-                var twentyFiveYearsAgo = timeNow.AddYears(-25);
-
-                foreach (var insuree in insurees)
-                {
-                    
-                    if (insuree.DateOfBirth <= DateTime.Now.AddYears(-18))
-                    {
-                        quote += 100;
-                    }
-
-                    if (insuree.DateOfBirth > DateTime.Now.AddYears(-18) && insuree.DateOfBirth <= DateTime.Now.AddYears(-25))
-                    {
-                        quote += 50;
-                    }
-
-                    if (insuree.DateOfBirth > DateTime.Now.AddYears(-25))
-                    {
-                        quote += 25;
-                    }
-
-                    if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
-                    {
-                        quote += 25;
-                    }
-
-                    if (insuree.CarMake == "Porsche")
-                    {
-                        quote += 25;
-                    }
-
-                    if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
-                    {
-                        quote += 25;
-                    }
-
-                    quote += insuree.SpeedingTickets * 10;
-
-                    if (insuree.DUI)
-                    {
-                        quote += Convert.ToInt32(quote * .25);
-                    }
-
-                    if (insuree.CoverageType)
-                    {
-                        quote += (quote / 2);
-                    }
-
-                    insuree.Quote = quote;
-                }
-                
-                
-            }
-           
+                       
             return View();
         }
 
@@ -113,6 +52,56 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+
+                //Variable to hold value of monthly quote
+                int quote = 50;
+
+                var age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+
+                if (age <= 18)
+                {
+                    quote += 100;
+                }
+
+                if (age > 18 && age <= 25)
+                {
+                    quote += 50;
+                }
+
+                if (age > 25)
+                {
+                    quote += 25;
+                }
+
+                if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
+                {
+                    quote += 25;
+                }
+
+                if (insuree.CarMake == "Porsche")
+                {
+                    quote += 25;
+                }
+
+                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+                {
+                    quote += 25;
+                }
+
+                quote += insuree.SpeedingTickets * 10;
+
+                if (insuree.DUI)
+                {
+                    quote += (quote / 4);
+                }
+
+                if (insuree.CoverageType)
+                {
+                    quote += (quote / 2);
+                }
+
+                insuree.Quote = quote;
+
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
