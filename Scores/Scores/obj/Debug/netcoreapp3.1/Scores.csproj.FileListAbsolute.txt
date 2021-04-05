@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+\\Mac\Home\Desktop\C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache

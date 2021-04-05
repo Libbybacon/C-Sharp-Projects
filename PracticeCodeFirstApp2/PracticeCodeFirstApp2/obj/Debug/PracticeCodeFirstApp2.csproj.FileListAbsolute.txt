@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\bin\Debug\PracticeCodeFirstApp2.exe.config
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\bin\Debug\PracticeCodeFirstApp2.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\bin\Debug\PracticeCodeFirstApp2.pdb
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\obj\Debug\PracticeCodeFirstApp2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\obj\Debug\PracticeCodeFirstApp2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\obj\Debug\PracticeCodeFirstApp2.csproj.CopyComplete
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\obj\Debug\PracticeCodeFirstApp2.exe
+\\Mac\Home\Desktop\Basic_C#_Programs\PracticeCodeFirstApp2\PracticeCodeFirstApp2\obj\Debug\PracticeCodeFirstApp2.pdb
