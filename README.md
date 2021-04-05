@@ -6,10 +6,10 @@
 * Car Insurance Quote
 * Newsletter
 
-###Blackjack Game
+### Blackjack Game
 
 This is a console app that allows a user to play a game of blackjack against a simulated dealer.  
 
-###Car Insurance Quote
+### Car Insurance Quote
 
 This is an MVC web app where users can input information to determine a quote for their car insurance.  
